@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-customer-tax-handling
+description: "BIAN Service Domain: Customer Tax Handling (Process pattern, Sales and Service)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - process
+annotations:
+  bian/business-area: "Sales and Service"
+  bian/business-domain: "Customer Management"
+  bian/asset-type: "Customer Tax Record"
+  bian/control-record: "Customer Tax Record Procedure"
